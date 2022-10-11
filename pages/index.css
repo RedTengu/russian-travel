@@ -1,0 +1,50 @@
+/* Normalize */
+@import url(../vendor/Normalize/normalize.css);
+/* Fonts */
+@import url(../vendor/Fonts/inter.css);
+/* Global */
+@import url(../blocks/page/page.css);
+/* Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/lang-list/lang-list.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/link/_active/link_active.css);
+@import url(../blocks/header/__link/header__link.css);
+/* Travels */
+@import url(../blocks/travels/travels.css);
+@import url(../blocks/travels/__title/travels__title.css);
+@import url(../blocks/travels/__subtitle/travels__subtitle.css);
+@import url(../blocks/travels/__figure/travels__figure.css);
+@import url(../blocks/travels/__figure-img/travels__figure-img.css);
+@import url(../blocks/travels/__figure-title/travels__figure-title.css);
+/* Description */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/description/__stat/description__stat.css);
+@import url(../blocks/description/__stat-text/description__stat-text.css);
+@import url(../blocks/description/__stat-number/description__stat-number.css);
+/* Gallery */
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__list/gallery__list.css);
+@import url(../blocks/gallery/__img/gallery__img.css);
+/* Places */
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__site/place__site.css);
+@import url(../blocks/place/__link-title/place__link-title.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__img/place__img.css);
+@import url(../blocks/place/__text/place__text.css);
+/* Trains */
+@import url(../blocks/trains/trains.css);
+@import url(../blocks/trains/__link/trains__link.css);
+@import url(../blocks/trains/__link-title/trains__link-title.css);
+@import url(../blocks/trains/__link-subtitle/trains__link-subtitle.css);
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__navi-list/footer__navi-list.css);
+@import url(../blocks/footer/__navi-link/footer__navi-link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

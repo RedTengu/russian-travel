@@ -1,0 +1,17 @@
+.travels__figure {
+  max-width: 984px;
+  margin: 0;
+  margin-top: 64px;
+}
+
+@media screen and (max-width: 1024px) {
+  .travels__figure {
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .travels__figure {
+    margin-top: 40px;
+  }
+}

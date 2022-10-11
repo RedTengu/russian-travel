@@ -1,0 +1,20 @@
+.travels__figure-title {
+  padding-top: 8px;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+  .travels__figure-title {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .travels__figure-title {
+    padding-left: 16px;
+  }
+}
