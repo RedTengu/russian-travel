@@ -1,7 +1,11 @@
 .trains {
-  display: flex;
-  justify-content: center;
-  padding-top: 92px;
+  padding: 92px 48px 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .trains {
+    padding: 92px 0 0;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -9,6 +13,7 @@
     padding-top: 90px;
   }
 }
+
 @media screen and (max-width: 320px) {
   .trains {
     padding-top: 66px;

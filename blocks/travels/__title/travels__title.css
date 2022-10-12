@@ -7,22 +7,19 @@
   line-height: 1.04;
 }
 
-@media screen and (max-width: 695px) {
+@media screen and (max-width: 710px) {
   .travels__title {
+    max-width: 430px;
     font-size: 60px;
-  }
-}
-@media screen and (max-width: 440px) {
-  .travels__title {
-    font-size: 45px;
     line-height: 1.1;
   }
 }
 
-@media screen and (max-width: 335px) {
+@media screen and (max-width: 500px) {
   .travels__title {
+    max-width: 288px;
     margin-bottom: 16px;
     font-size: 40px;
-    line-height: 1.1;
   }
 }
+

@@ -6,8 +6,16 @@
   line-height: 1.2;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 710px) {
   .travels__subtitle {
+    max-width: 450px;
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .travels__subtitle {
+    max-width: 288px;
     font-size: 16px;
     line-height: 1.25;
   }

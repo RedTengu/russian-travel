@@ -45,6 +45,6 @@
 @import url(../blocks/trains/__link-subtitle/trains__link-subtitle.css);
 /* Footer */
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__navi-list/footer__navi-list.css);
-@import url(../blocks/footer/__navi-link/footer__navi-link.css);
+@import url(../blocks/footer/__navigation-list/footer__navigation-list.css);
+@import url(../blocks/footer/__navigation-link/footer__navigation-link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
