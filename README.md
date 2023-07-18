@@ -1,6 +1,6 @@
 # Лендинг "Russian travel"
 
-## О проекте
+## Описание
 
 Сайт о путешествиях по России. 
 
@@ -18,4 +18,4 @@
 
 ## Демо
 
-[Click here!](https://redtengu.github.io/russian-travel/)
+👉 [Click here!](https://redtengu.github.io/russian-travel/) 👈
